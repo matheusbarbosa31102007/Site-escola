@@ -33,7 +33,7 @@ body {
     width: 25%;
 }
 
-.Mercado{
+#escola{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -42,12 +42,12 @@ body {
     padding: 24px 0;
 }
 
-.Mercado-div-conteudo{
+.escola-div-conteudo{
     width: 35%;
 }
 
 
-.Mercado-titulo{
+.escola-titulo{
     padding: 24px 0;
 }
 
